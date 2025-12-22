@@ -1,0 +1,8 @@
+- [x] Clarify Project Requirements: Next.js + single page with `user`, `pass`, `secret` (TOTP)
+- [x] Scaffold the Project: Initialized Next.js App Router TS skeleton
+- [x] Customize the Project: Implemented TOTP, copy actions, kick-like style
+- [ ] Install Required Extensions: Not required
+- [ ] Compile the Project: Run `npm install` then `npm run dev`
+- [ ] Create and Run Task: Not needed
+- [ ] Launch the Project: After compile, open localhost:3000
+- [x] Ensure Documentation is Complete: Added README
